@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Pratyusha
 
-<!--
-**pratyusha70/pratyusha70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Developer
 
-Here are some ideas to get you started:
+## 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 [Login Page](YOUR_PROJECT_LINK)
+- 🌐 [My Web Project](YOUR_PROJECT_LINK)
+- 💻 [C Programming Projects](YOUR_PROJECT_LINK)
+
+## 🛠️ Skills
+
+- C
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 🔗 Connect With Me
+
+- [GitHub](YOUR_GITHUB_LINK)
+- [LinkedIn](YOUR_LINKEDIN_LINK)
+
+## 📫 Contact
+
+Email: your-email@example.com
